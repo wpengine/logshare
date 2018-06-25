@@ -10,9 +10,9 @@ import (
 
 	gcs "cloud.google.com/go/storage"
 	cloudflare "github.com/cloudflare/cloudflare-go"
-	"github.com/cloudflare/logshare"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"
+	"github.com/wpengine/logshare"
 	"golang.org/x/net/context"
 )
 
